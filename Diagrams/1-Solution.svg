@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg11.dtd" >
+<svg version="1.1" baseProfile="full"  width="319.13385" height="319.13385" viewBox="0 0 229.77638 229.77638" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" >
+
+<g lengthAdjust="spacingAndGlyphs" xml:space='preserve' >
+<g  transform="translate(1.19,1.19)" >
+<path d="
+M0.0 0.0
+L0.0 227.39
+L227.39 227.39
+L227.39 0.0
+Z
+" fill="none" fill-rule="nonzero" />
+<line x1="125.60" y1="6.54" x2="125.60" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="137.50" y1="6.54" x2="137.50" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="149.41" y1="6.54" x2="149.41" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="161.31" y1="6.54" x2="161.31" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="173.22" y1="6.54" x2="173.22" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="185.13" y1="6.54" x2="185.13" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="197.03" y1="6.54" x2="197.03" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="208.94" y1="6.54" x2="208.94" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="220.84" y1="6.54" x2="220.84" y2="107.74" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="119.65" y1="6.54" x2="220.84" y2="6.54" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="119.65" y1="18.45" x2="220.84" y2="18.45" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="30.35" x2="220.84" y2="30.35" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="42.26" x2="220.84" y2="42.26" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="54.17" x2="220.84" y2="54.17" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="66.07" x2="220.84" y2="66.07" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="77.98" x2="220.84" y2="77.98" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="89.88" x2="220.84" y2="89.88" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="119.65" y1="101.79" x2="220.84" y2="101.79" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<circle cx="185.13" cy="18.45" r="5.85" fill="white"/>
+<circle cx="185.13" cy="18.45" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="30.35" r="5.85" fill="white"/>
+<circle cx="185.13" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="42.26" r="5.85" fill="white"/>
+<circle cx="185.13" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="18.45" r="5.98" fill="black"/>
+<circle cx="197.03" cy="30.35" r="5.98" fill="black"/>
+<circle cx="197.03" cy="42.26" r="5.85" fill="white"/>
+<circle cx="197.03" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="66.07" r="5.85" fill="white"/>
+<circle cx="197.03" cy="66.07" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="18.45" r="5.98" fill="black"/>
+<circle cx="208.94" cy="42.26" r="5.98" fill="black"/>
+<circle cx="208.94" cy="54.17" r="5.85" fill="white"/>
+<circle cx="208.94" cy="54.17" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="220.84" cy="30.35" r="5.98" fill="black"/>
+<path d="
+M208.34 17.35
+L208.34 17.35
+C208.34 17.35 208.34 17.35 208.34 17.35
+Z
+M209.18 15.17
+L209.14 15.25
+C209.01 15.50 208.80 15.77 208.49 16.04
+C208.18 16.32 207.82 16.56 207.40 16.75
+L207.32 16.79
+L207.32 16.88
+L207.32 17.62
+L207.32 17.82
+L207.51 17.75
+C207.76 17.66 208.03 17.53 208.34 17.35
+L208.34 17.34
+L208.34 17.34
+L208.34 17.34
+C208.34 17.34 208.34 17.34 208.34 17.34
+L208.34 17.34
+C208.34 17.34 208.34 17.35 208.34 17.35
+L208.34 17.35
+L208.35 17.34
+L208.34 17.34
+L208.34 17.34
+C208.54 17.23 208.71 17.12 208.85 17.00
+L208.85 17.00
+L208.85 21.59
+L208.85 21.73
+L209.90 21.73
+L209.90 21.59
+L209.90 15.31
+L209.90 15.17
+Z
+" fill="white" fill-rule="nonzero" />
+</g>
+</g>
+</svg>
