@@ -60,3 +60,8 @@ GoWrite2 can be a bit tricky to use, depending on what you want. Here are some t
 
 ## EPUB Readers
 
+Most EPUB readers are incredibly unpleasant or ugly. The only ones I've found so far which are good enough:
+
+- [Thorium](https://github.com/edrlab/thorium-reader/releases)
+- [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [iBooks](https://www.apple.com/apple-books/)
