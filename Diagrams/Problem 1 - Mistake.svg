@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg11.dtd" >
+<svg version="1.1" baseProfile="full"  width="153.77953" height="153.77953" viewBox="0 0 110.72126 110.72126" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" >
+
+<g lengthAdjust="spacingAndGlyphs" xml:space='preserve' >
+<g  transform="translate(1.19,1.19)" >
+<path d="
+M0.0 0.0
+L0.0 108.34
+L108.34 108.34
+L108.34 0.0
+Z
+" fill="none" fill-rule="nonzero" />
+<line x1="6.54" y1="6.54" x2="6.54" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="18.45" y1="6.54" x2="18.45" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="30.35" y1="6.54" x2="30.35" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="42.26" y1="6.54" x2="42.26" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="54.17" y1="6.54" x2="54.17" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="66.07" y1="6.54" x2="66.07" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="77.98" y1="6.54" x2="77.98" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="89.88" y1="6.54" x2="89.88" y2="107.74" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="101.79" y1="6.54" x2="101.79" y2="107.74" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="0.59" y1="6.54" x2="101.79" y2="6.54" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="0.59" y1="18.45" x2="101.79" y2="18.45" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="30.35" x2="101.79" y2="30.35" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="42.26" x2="101.79" y2="42.26" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="54.17" x2="101.79" y2="54.17" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="66.07" x2="101.79" y2="66.07" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="77.98" x2="101.79" y2="77.98" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="89.88" x2="101.79" y2="89.88" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="101.79" x2="101.79" y2="101.79" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<circle cx="66.07" cy="18.45" r="5.85" fill="white"/>
+<circle cx="66.07" cy="18.45" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="30.35" r="5.85" fill="white"/>
+<circle cx="66.07" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="42.26" r="5.85" fill="white"/>
+<circle cx="66.07" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="6.54" r="5.98" fill="black"/>
+<circle cx="77.98" cy="18.45" r="5.98" fill="black"/>
+<circle cx="77.98" cy="30.35" r="5.98" fill="black"/>
+<circle cx="77.98" cy="42.26" r="5.85" fill="white"/>
+<circle cx="77.98" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="66.07" r="5.85" fill="white"/>
+<circle cx="77.98" cy="66.07" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="18.45" r="5.85" fill="white"/>
+<circle cx="89.88" cy="18.45" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="42.26" r="5.98" fill="black"/>
+<circle cx="89.88" cy="54.17" r="5.85" fill="white"/>
+<circle cx="89.88" cy="54.17" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="101.79" cy="30.35" r="5.98" fill="black"/>
+<path d="
+M78.22 3.26
+L78.18 3.34
+C78.05 3.60 77.84 3.86 77.53 4.14
+C77.22 4.41 76.86 4.65 76.44 4.85
+L76.36 4.88
+L76.36 4.97
+L76.36 5.72
+L76.36 5.92
+L76.55 5.85
+C76.79 5.76 77.07 5.62 77.38 5.44
+L77.38 5.44
+L77.38 5.44
+L77.38 5.44
+C77.38 5.44 77.38 5.44 77.38 5.44
+C77.38 5.44 77.38 5.44 77.38 5.44
+L77.38 5.44
+L77.39 5.43
+L77.38 5.44
+L77.38 5.44
+C77.57 5.33 77.74 5.21 77.89 5.10
+L77.89 5.10
+L77.89 9.68
+L77.89 9.82
+L78.94 9.82
+L78.94 9.68
+L78.94 3.41
+L78.94 3.26
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M89.89 15.31
+C89.30 15.31 88.83 15.47 88.47 15.77
+C88.12 16.08 87.92 16.53 87.86 17.12
+L88.65 17.20
+C88.65 16.81 88.77 16.50 88.99 16.28
+C89.21 16.06 89.51 15.95 89.88 15.95
+C90.22 15.95 90.51 16.05 90.73 16.26
+C90.94 16.47 91.05 16.72 91.05 17.03
+C91.05 17.32 90.93 17.63 90.69 17.95
+C90.45 18.28 90.00 18.72 89.32 19.28
+C88.88 19.63 88.54 19.95 88.31 20.22
+C88.08 20.49 87.91 20.77 87.81 21.05
+C87.74 21.22 87.71 21.40 87.72 21.59
+L91.85 21.59
+L91.85 20.85
+L88.78 20.85
+C88.87 20.71 88.98 20.57 89.11 20.43
+C89.24 20.29 89.53 20.03 89.99 19.65
+C90.55 19.18 90.94 18.81 91.18 18.55
+C91.41 18.28 91.58 18.03 91.69 17.78
+C91.79 17.54 91.84 17.30 91.84 17.05
+C91.84 16.55 91.67 16.14 91.32 15.81
+C90.97 15.48 90.49 15.31 89.89 15.31
+Z
+" fill="black" fill-rule="nonzero" />
+</g>
+</g>
+</svg>

@@ -10,12 +10,7 @@ language: en-US
 
 Here is a simple, essential problem:
 
-![Problem 1](noname_1.eps)
-
-<figure>
-    <img src="1.svg" alt="Problem 1" style="width: 300%; margin-bottom: -50%; margin-left: -50%"/>
-    <figcaption>Tsumego 1</figcaption>
-</figure>
+![Problem 1](Diagrams/Problem%201.svg){ width=50% }
 
 You need this. You've got this.
 
@@ -23,14 +18,8 @@ You need this. You've got this.
 
 Here is what you would like to have played:
 
-<figure>
-    <img src="1-Solution.svg" alt="Solution to Problem 1" style="width: 300%; margin-bottom: -50%; margin-left: -50%"/>
-    <figcaption>Solution to Problem 1</figcaption>
-</figure>
+![Problem 1: Solution](Diagrams/Problem%201%20-%20Solution.svg){ width=50% }
 
 Here's what many beginners would probably play:
 
-<figure>
-    <img src="1-Mistake.svg" alt="Mistake on Problem 1" style="width: 300%; margin-bottom: -50%; margin-left: -50%"/>
-    <figcaption>Mistake on Problem 1</figcaption>
-</figure>
+![Problem 1: Mistake](Diagrams/Problem%201%20-%20Mistake.svg){ width=50% }

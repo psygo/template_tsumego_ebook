@@ -9,7 +9,7 @@ Useful resources for studying EPUBs:
 - [*EPUB 3 Best Practices*, by Matt Garrish and Markus Gylling](https://www.goodreads.com/book/show/13593753-epub-3-best-practices) &mdash; Anders Kierulf, author of the SGF standard, GoBooks, and SmartGo, recommends it
 - [*What is EPUB 3?*, by Matt Garrish](https://www.goodreads.com/book/show/18881975-what-is-epub-3)
 - [*Zen of eBook Formatting: A Step-by-step Guide To Format eBooks for Kindle and EPUB*, by Guido Henkel](https://www.goodreads.com/book/show/22381850-zen-of-ebook-formatting)
-- [*https://www.goodreads.com/book/show/8477489-epub-straight-to-the-point*, by Elizabeth Castro](https://www.goodreads.com/book/show/8477489-epub-straight-to-the-point)
+- [*Epub Straight to the Point: Creating eBooks for the Apple iPad and Other Ereaders*, by Elizabeth Castro](https://www.goodreads.com/book/show/8477489-epub-straight-to-the-point)
 - [A Kiseido book I translated into Portuguese using LaTeX and GoWrite2](https://github.com/FanaroEngineering/traducao_como_jogar_go)
 
 ## Pandoc
@@ -20,6 +20,13 @@ Here are some useful resources:
 
 - [Pandoc EPUB](https://pandoc.org/epub.html)
 - [Scott Chacon's Pro Git book](https://git-scm.com/book/en/v2) was written using Pandoc, if you wish to know how far it can go, or have a reference example.
+
+The essential workflow of developing an EPUB (or PDF) tsumego book in this manner is:
+
+1. Create the problem inside GoWrite, with likely at least 3 diagrams, problem, solution, mistake.
+1. Export the diagrams to vector images.
+1. Mention the diagrams inside the markdown file.
+1. Add the necessary text to make it more understandable.
 
 ### Compiling to EPUB
 
@@ -50,3 +57,6 @@ GoWrite2 can be a bit tricky to use, depending on what you want. Here are some t
 - SVG is basically text, so you can inspect it and change it through an editor. If you dislike anything about GoWrite's results, do change it.
     - For example, I think it would look better to have black thicker lines around the White stones. So I simply would change White stones to have `.35` thickness: `stroke="black" stroke-width="0.35px"`.
 - If you want to open or convert the diagrams other formats, I recommend either using [GIMP](https://www.gimp.org/) or [Inkscape](https://inkscape.org/), which are both free.
+
+## EPUB Readers
+
