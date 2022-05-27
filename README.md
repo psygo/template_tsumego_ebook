@@ -19,7 +19,7 @@ So far, the most practical way of creating an EPUB book seems to be [Pandoc](htt
 Here are some useful resources:
 
 - [Pandoc EPUB](https://pandoc.org/epub.html)
-- [Scott Chacon's Pro Git book](https://git-scm.com/book/en/v2) was written using Pandoc, if you wish to know how far it can go, or have a reference example.
+- [Scott Chacon's *Pro Git* book](https://git-scm.com/book/en/v2) was written using Pandoc, if you wish to know how far it can go, or have a reference example.
 
 The essential workflow of developing an EPUB (or PDF) tsumego book in this manner is:
 

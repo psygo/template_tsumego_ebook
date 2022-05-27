@@ -1,0 +1,26 @@
+
+(;CA[UTF-8]FF[4]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.20]AB[or][oq][nq][mq][mr][lq][jr][hq][gq][gr][fq][eq][er]GN[ ]FG[259:Problem 47]PB[ ]PW[ ]PM[2]LB[kr:A]AW[dr][dq][co][ep][fp][gp][hp][ip][jp][kp][lp][mp][np][op][pq][pr][qo][kr]
+(
+;
+)
+(
+;PM[2]FG[259:Solution]
+;B[ks];W[ir];B[is];W[jq];B[js]
+)
+
+(
+;PM[2]FG[259:Seems legit but isn't]
+;B[js];W[ir];B[is];W[ks];B[kq];W[hs];B[jq];
+)
+
+(
+;PM[2]FG[259:Black is in a shortage of liberties]
+;B[js];W[ir];B[is];W[kq];B[ks];W[ls];B[lr];W[hs];B[ms];W[jq];B[ls];W[iq];B[hr];W[os]LB[ns:A];
+)
+
+(
+;PM[2]FG[259:Dodging the Shortage of Liberties]
+;B[ks];W[ir];B[is];W[kq];B[ls];W[hs];B[js];W[iq];LB[lr:A]B[hr];
+)
+
+)
