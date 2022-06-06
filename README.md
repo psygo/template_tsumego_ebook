@@ -1,4 +1,4 @@
-## Template Tsumego Book
+## Template Tsumego eBook
 
 A lab for learning how to write a Go, mainly tsumegos, EPUB ebook.
 
