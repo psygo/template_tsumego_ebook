@@ -1,5 +1,7 @@
 ## Template Tsumego eBook
 
+> I've also written a [companion article on my website](https://fanaro.io/articles/epub_tsumego_template/epub_tsumego_template.html).
+
 A lab for learning how to write a Go, mainly tsumegos, EPUB ebook.
 
 EPUBs are basically HTML files. For instance, if you open any of [GoBooks](https://gobooks.com/) books with a text editor, besides some many unicode errors, you will note that it is composed of 90% HTML and 10% embedded ~~Chinese~~ JavaScript for the diagrams.
